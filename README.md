@@ -1,6 +1,6 @@
 # Sobre o projeto
 
-Esta aplicação é um gerenciador de projetos empresarial. Com ele podemos adicionar um projeto à ser realizado, cada projeto contém nome, orçamento e categoria.
+Esta aplicação é um gerenciador de projetos para pessoas/empresa. Com ele podemos adicionar um projeto à ser realizado, cada projeto contém nome, orçamento e categoria.
 Os projetos podem ser excluídos ou pode editar nome, valor do orçamento e categoria. Ele também adiciona serviços à serem feitos em cada projeto, cada serviço
 contém nome, custo do serviço e descrição. OBS: O preço do serviço não pode ser maior que o orçamento do projeto.
 
