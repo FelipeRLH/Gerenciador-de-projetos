@@ -21,7 +21,7 @@ contém nome, custo do serviço e descrição. OBS: O preço do serviço não po
 
 ## Principais Assuntos neste projeto:
 
--Fetch API(Pegar dados de um banco de dados)
+- Fetch API(Pegar dados de um banco de dados)
 
 - Components
 
